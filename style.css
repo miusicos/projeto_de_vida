@@ -2,7 +2,7 @@
 
 
 :root {
-    --cor-de-fundo: #1E1E1E;
+    --cor-de-fundo: #000000;
     --verde: #6FFF57;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
@@ -13,7 +13,7 @@
 
 body {
     background-color: var(--cor-de-fundo);
-    color: var(--branco);
+    color: var(--preto);
     font-family: 'Chakra Petch', sans-serif;
 }
 
@@ -39,7 +39,7 @@ body {
 
 
 .titulo-principal span {
-    color: var(--verde);
+    color: var(--medium blue);
 }
 
 
